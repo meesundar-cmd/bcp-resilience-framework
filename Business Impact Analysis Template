@@ -13,7 +13,6 @@
 ## 🔹 Impact Assessment
 | Field | Description |
 |------|-------------|
-| Financial Impact | Revenue loss, penalties, cost impact |
 | Operational Impact | Service disruption, backlog, productivity loss |
 | Customer Impact | SLA breach, customer dissatisfaction |
 | Regulatory Impact | Compliance/legal risks |
@@ -42,7 +41,7 @@
 ## 🔹 Risk Assessment
 | Field | Description |
 |------|-------------|
-| Risk Scenario | Example: Data center outage |
+| Risk Scenario | Example: Support tools outage |
 | Likelihood | High / Medium / Low |
 | Impact Severity | High / Medium / Low |
 | Risk Rating | Combined score |
