@@ -1,4 +1,75 @@
-# Business Impact Analysis Template
+# 📊 Business Impact Analysis (BIA)
 
-| Process | Impact | RTO | RPO | Dependencies |
-|--------|--------|-----|-----|-------------|
+## 🔹 Process Details
+| Field | Description |
+|------|-------------|
+| Process Name | Name of the business/service process |
+| Business Unit | Department owning the process |
+| Process Owner | Responsible leader/contact |
+| Criticality Level | High / Medium / Low |
+
+---
+
+## 🔹 Impact Assessment
+| Field | Description |
+|------|-------------|
+| Financial Impact | Revenue loss, penalties, cost impact |
+| Operational Impact | Service disruption, backlog, productivity loss |
+| Customer Impact | SLA breach, customer dissatisfaction |
+| Regulatory Impact | Compliance/legal risks |
+
+---
+
+## 🔹 Recovery Objectives
+| Field | Description |
+|------|-------------|
+| RTO (Recovery Time Objective) | Max acceptable downtime |
+| RPO (Recovery Point Objective) | Max acceptable data loss |
+| MTD (Maximum Tolerable Downtime) | Absolute limit before severe damage |
+
+---
+
+## 🔹 Dependencies
+| Type | Details |
+|------|--------|
+| Applications | Systems/tools required |
+| Infrastructure | Servers, network, cloud |
+| People | Key roles/teams required |
+| Vendors | External dependencies |
+
+---
+
+## 🔹 Risk Assessment
+| Field | Description |
+|------|-------------|
+| Risk Scenario | Example: Data center outage |
+| Likelihood | High / Medium / Low |
+| Impact Severity | High / Medium / Low |
+| Risk Rating | Combined score |
+
+---
+
+## 🔹 Recovery Strategy
+| Field | Description |
+|------|-------------|
+| Recovery Approach | Manual workaround / Failover / Backup system |
+| Alternate Site | DR site / Remote operations |
+| Recovery Steps | High-level recovery actions |
+
+---
+
+## 🔹 Communication Plan
+| Field | Description |
+|------|-------------|
+| Internal Stakeholders | Teams to notify |
+| External Stakeholders | Customers/vendors |
+| Communication Channel | Email / Bridge call / Dashboard |
+
+---
+
+## 🔹 Approval & Review
+| Field | Description |
+|------|-------------|
+| Prepared By | Analyst name |
+| Reviewed By | Leadership / Risk team |
+| Last Updated | Date |
