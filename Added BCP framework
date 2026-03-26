@@ -1,0 +1,15 @@
+# Major Incident Playbook
+
+## Trigger
+- P1 Incident
+- Service Down
+
+## Steps
+1. Initiate bridge call
+2. Assign incident commander
+3. Communicate to stakeholders
+4. Track actions
+5. Provide updates every 30 mins
+
+## Closure
+- RCA mandatory
