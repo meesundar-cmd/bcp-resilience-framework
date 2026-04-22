@@ -1,63 +1,74 @@
-# 🚀 BCP Duty Manager Framework  
-**Business Continuity | Incident Management | Crisis Operations | SLA Governance**
+## 📌 Summary
 
-> 🚀 **Scale:** 208 Systems | 🎯 **High Impact:** 66 Critical Systems
-
----
-
-## 📌 Overview
-
-This project showcases a **real-world Business Continuity Program (BCP)** framework designed and operationalized to ensure uninterrupted customer support operations during system outages, performance degradation, and crisis situations.
-
-The framework enables structured incident response, SLA-driven communication, and seamless coordination across IT, Support, and Business stakeholders.
+This project documents a **Business Continuity Program (BCP) Duty Manager Framework** designed to manage enterprise incidents and ensure operational resilience at scale.
 
 ---
 
-## 📊 Key Metrics
+### 🔢 Scale & Scope
 
 - **208 Systems in Scope**
-- **66 High Business Impact Systems**
-
-Designed and operationalized a Business Continuity framework supporting **208 enterprise systems**, including **66 high-criticality platforms** where outages directly impact customer support delivery and business continuity.
-
-This required:
-- SLA-driven incident response (L4/L5 within 15 minutes)
-- Real-time monitoring and escalation for critical systems
-- Cross-functional coordination with IT, Support, and Business stakeholders
-- Executive-level communication during high-impact incidents
+- **66 High-Criticality Systems** with direct customer impact
 
 ---
 
-## 🎯 Objectives
+### 🎯 Core Purpose
 
-- Ensure continuous business operations during disruptions  
-- Minimize impact of outages on customers and employees  
-- Enable structured incident response with defined SLAs  
-- Improve communication clarity during critical events  
-- Build operational resilience at scale  
+- Ensure **uninterrupted customer support operations** during system outages  
+- Provide **structured incident response with defined SLAs**  
+- Enable **cross-functional coordination** between IT, Support, and Business teams  
 
 ---
 
-## 🧠 Key Components
+### 🧠 Key Components
 
-### 1. Business Continuity Framework
-- Covers planned outages, unplanned outages, and crisis events  
-- Aligns with enterprise resilience and risk mitigation strategies  
+#### 1. Business Continuity Framework
+- Covers:
+  - Planned outages  
+  - Unplanned outages  
+  - Crisis events  
+- Aligned with **enterprise resilience strategies**
 
 ---
 
-### 2. Incident Management Model
+#### 2. Incident Management Model
 
-#### 🔹 Level 1 – BCP Incident Leads (24/7)
-- Event creation, monitoring, tracking, and closure  
+**Level 1 – BCP Incident Leads (24/7)**
+- Event creation, monitoring, and tracking  
 - User impact validation  
-- IT coordination and follow-ups  
+- IT coordination  
 
-#### 🔹 Level 2 – BCP Core Team
-- Handles L4/L5 critical incidents  
-- Executive communication  
-- Escalation and crisis management  
+**Level 2 – BCP Core Team**
+- Handles **L4/L5 critical incidents**  
+- Manages **executive communication**  
+- Drives escalation and crisis management  
 
 ---
 
-### 3. Incident Lifecycle
+#### 3. Incident Lifecycle
+- Structured end-to-end response:
+  - Detection → Validation → Ticketing → Communication → Resolution → Closure  
+
+---
+
+### ⚙️ Key Requirements
+
+- ⏱ **SLA-driven response**
+  - L4/L5 incidents within **15 minutes**  
+
+- 📡 **Real-time monitoring & escalation**
+  - Focus on high-critical systems  
+
+- 📢 **Clear communication protocols**
+  - Standardized updates for high-impact incidents  
+
+- 🧑‍💼 **Executive-level visibility**
+  - Leadership alignment during critical events  
+
+---
+
+### 🚀 Outcome
+
+This framework enables **operational resilience at enterprise scale**, ensuring:
+- Minimal disruption to customer support  
+- Faster incident response and resolution  
+- Strong alignment across IT, Business, and Support teams  
